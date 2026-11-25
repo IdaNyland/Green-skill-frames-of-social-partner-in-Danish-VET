@@ -1,2 +1,2 @@
 # Green-skill-frames-of-social-partner-in-Danish-VET
-Survey data behind working paper
+Anonymized survey data behind working paper.
