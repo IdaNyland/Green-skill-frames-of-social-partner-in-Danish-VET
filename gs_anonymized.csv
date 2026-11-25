@@ -1,0 +1,267 @@
+"respondentid","organization_id","social_partner","vocational_area","D1_job_specific_tasks","D1_resource_use_mitigation","D1_material_selection_maintenance","D1_general_sustainability","D1_governance_frameworks","D1_social_ethical_aspects","D2_technical_practical_skills","D2_knowledge","D2_intrapersonal_skills","D2_interpersonal_skills","D7_no_barriers_mentioned"
+"RESP_001","ORG_018","Employer","Food, Agriculture, and Leisure",1,1,1,0,0,0,1,1,0,0,1
+"RESP_002","ORG_038",,"Food, Agriculture, and Leisure",0,0,0,1,0,0,0,0,0,0,1
+"RESP_003","ORG_012","Employer","Technology, Construction, and Transportation",1,1,1,0,0,0,1,0,0,0,1
+"RESP_004","ORG_014","Union","Technology, Construction, and Transportation",0,1,0,1,0,0,1,0,0,0,1
+"RESP_005","ORG_011","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,1
+"RESP_006","ORG_028","Union","Food, Agriculture, and Leisure",0,0,1,0,0,0,0,0,0,0,1
+"RESP_007","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_008","ORG_014","Union","Technology, Construction, and Transportation",1,0,0,0,0,0,0,1,0,0,1
+"RESP_009","ORG_018","Employer","Care, Health, and Pedagogy",0,0,0,0,0,0,0,0,0,0,0
+"RESP_010","ORG_001","Union","Technology, Construction, and Transportation",1,0,1,0,0,0,1,0,0,0,1
+"RESP_011","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,1,0,0,0,0
+"RESP_012","ORG_028","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_013","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_014","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,1,0,0,0,1
+"RESP_015","ORG_008","Union","Technology, Construction, and Transportation",1,0,0,0,0,0,1,0,0,0,1
+"RESP_016","ORG_034","Employer","Care, Health, and Pedagogy",0,0,0,0,0,0,0,0,0,0,0
+"RESP_017","ORG_009","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_018","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,1,0,0,0,1
+"RESP_019","ORG_003","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_020","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,1,0,0,0,1
+"RESP_021","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_022","ORG_041","Employer","Technology, Construction, and Transportation",1,0,1,0,1,0,1,1,1,0,1
+"RESP_023","ORG_012","Employer","Technology, Construction, and Transportation",1,0,0,0,0,0,0,0,0,0,1
+"RESP_024","ORG_014","Union","Technology, Construction, and Transportation",1,0,1,1,0,0,0,0,0,0,1
+"RESP_025","ORG_014","Union","Technology, Construction, and Transportation",1,0,1,0,0,0,1,0,0,0,1
+"RESP_026","ORG_017","Employer","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_027","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,0
+"RESP_028","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_029","ORG_009","Employer","Administration, Commerce, and Business Services",0,0,0,0,0,0,0,0,0,0,0
+"RESP_030","ORG_012","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_031","ORG_002","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,0,0,1
+"RESP_032","ORG_018","Employer","Care, Health, and Pedagogy",0,1,1,0,0,0,0,0,0,0,1
+"RESP_033","ORG_028","Union","Food, Agriculture, and Leisure",0,0,0,1,0,0,0,1,0,0,1
+"RESP_034","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_035","ORG_029","Employer","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_036","ORG_009","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_037","ORG_040","Employer","Technology, Construction, and Transportation",0,1,0,0,0,0,0,0,0,0,1
+"RESP_038","ORG_022","Union","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_039","ORG_007","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_040","ORG_012","Employer","Administration, Commerce, and Business Services",0,1,0,0,0,0,0,0,0,0,1
+"RESP_041","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_042","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,1
+"RESP_043","ORG_018","Employer","Care, Health, and Pedagogy",,,,,,,,,,,
+"RESP_044","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,1,1,0,0,1
+"RESP_045","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_046","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,1,0,0,0,1,0,0,1
+"RESP_047","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_048","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,1,0,1
+"RESP_049","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_050","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_051","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,1,0,0,0,1
+"RESP_052","ORG_001","Union","Food, Agriculture, and Leisure",0,1,1,0,0,1,1,0,0,0,1
+"RESP_053","ORG_025","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_054","ORG_015","Employer","Food, Agriculture, and Leisure",0,0,1,1,0,0,0,0,0,0,1
+"RESP_055","ORG_009","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_056","ORG_015","Employer","Food, Agriculture, and Leisure",0,0,1,1,1,0,0,1,1,0,1
+"RESP_057","ORG_015","Employer","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_058","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_059","ORG_001","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_060","ORG_012","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_061","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_062","ORG_001","Union","Technology, Construction, and Transportation",1,0,1,0,1,0,1,1,0,0,1
+"RESP_063","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_064","ORG_009","Employer","Administration, Commerce, and Business Services",0,1,1,0,1,1,0,0,0,1,1
+"RESP_065","ORG_021","Employer","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,0
+"RESP_066","ORG_013","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_067","ORG_013","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_068","ORG_045",,"Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_069","ORG_012","Employer","Technology, Construction, and Transportation",0,1,1,0,0,0,1,0,1,0,1
+"RESP_070","ORG_012","Employer","Technology, Construction, and Transportation",1,0,0,0,1,0,1,0,1,0,1
+"RESP_071","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_072","ORG_041","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,0,1,1
+"RESP_073","ORG_008","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_074","ORG_014","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_075","ORG_044","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_076","ORG_026","Union","Administration, Commerce, and Business Services",0,0,0,1,0,0,0,0,1,0,1
+"RESP_077","ORG_023","Union","Administration, Commerce, and Business Services",1,0,1,1,0,0,0,0,0,1,1
+"RESP_078","ORG_033","Employer","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_079","ORG_033","Employer","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_080","ORG_033","Employer","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_081","ORG_009","Employer","Food, Agriculture, and Leisure",0,1,1,0,0,1,1,0,1,0,1
+"RESP_082","ORG_001","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_083","ORG_033","Employer","Food, Agriculture, and Leisure",0,0,1,1,0,1,1,0,1,0,1
+"RESP_084","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_085","ORG_001","Union","Food, Agriculture, and Leisure",1,0,1,0,1,0,1,0,0,0,1
+"RESP_086","ORG_012","Employer","Administration, Commerce, and Business Services",0,0,0,1,0,0,0,1,1,1,1
+"RESP_087","ORG_032","Union","Care, Health, and Pedagogy",,,,,,,,,,,
+"RESP_088","ORG_006","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_089","ORG_032","Union","Administration, Commerce, and Business Services",0,0,0,0,1,0,0,0,0,0,1
+"RESP_090","ORG_032","Union","Administration, Commerce, and Business Services",0,0,0,1,0,0,0,0,0,0,1
+"RESP_091","ORG_005","Employer","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_092","ORG_028","Union","Food, Agriculture, and Leisure",0,0,1,0,0,0,0,0,0,0,1
+"RESP_093","ORG_032","Union","Administration, Commerce, and Business Services",0,0,1,0,1,0,0,0,0,1,1
+"RESP_094","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_095","ORG_032","Union","Administration, Commerce, and Business Services",0,0,0,1,0,0,0,0,1,1,1
+"RESP_096","ORG_009","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_097","ORG_034","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_098","ORG_033","Employer","Food, Agriculture, and Leisure",0,1,1,1,1,0,0,0,0,0,1
+"RESP_099","ORG_033","Employer","Food, Agriculture, and Leisure",0,0,1,1,1,0,1,0,1,0,1
+"RESP_100","ORG_042","Employer","Care, Health, and Pedagogy",0,0,0,1,0,0,0,0,1,0,1
+"RESP_101","ORG_032","Union","Care, Health, and Pedagogy",0,1,0,0,0,0,1,0,0,0,1
+"RESP_102","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,1,1,0,1
+"RESP_103","ORG_012","Employer","Technology, Construction, and Transportation",1,0,1,1,1,0,1,0,0,0,1
+"RESP_104","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_105","ORG_001","Union","Food, Agriculture, and Leisure",1,0,1,0,0,0,1,0,0,0,1
+"RESP_106","ORG_032","Union","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_107","ORG_033","Employer","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_108","ORG_001","Union","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_109","ORG_033","Employer","Food, Agriculture, and Leisure",0,0,1,0,0,0,0,0,0,0,1
+"RESP_110","ORG_001","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_111","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,1,0,1
+"RESP_112","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,0
+"RESP_113","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_114","ORG_001","Union","Technology, Construction, and Transportation",1,0,1,0,0,0,0,0,1,0,1
+"RESP_115","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_116","ORG_009","Employer","Food, Agriculture, and Leisure",0,1,1,0,0,0,0,1,0,0,1
+"RESP_117","ORG_032","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_118","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_119","ORG_047","Union","Administration, Commerce, and Business Services",0,1,0,0,0,0,0,0,1,0,1
+"RESP_120","ORG_012","Employer","Technology, Construction, and Transportation",0,1,0,0,0,0,1,0,0,0,1
+"RESP_121","ORG_008","Union","Technology, Construction, and Transportation",1,0,0,0,0,0,1,0,0,0,1
+"RESP_122","ORG_007","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_123","ORG_041","Employer","Technology, Construction, and Transportation",0,1,0,1,0,0,1,0,0,0,1
+"RESP_124","ORG_035","Union","Food, Agriculture, and Leisure",0,1,1,1,0,0,1,0,0,0,1
+"RESP_125","ORG_018","Employer","Food, Agriculture, and Leisure",1,1,1,0,0,0,1,0,1,1,1
+"RESP_126","ORG_035","Union","Food, Agriculture, and Leisure",1,1,1,0,0,0,1,0,0,0,1
+"RESP_127","ORG_035","Union","Food, Agriculture, and Leisure",1,1,1,0,1,0,1,1,0,0,1
+"RESP_128","ORG_032","Union","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_129","ORG_001","Union","Technology, Construction, and Transportation",1,0,1,0,1,0,1,1,0,0,1
+"RESP_130","ORG_018","Employer","Care, Health, and Pedagogy",0,0,0,0,0,0,0,0,0,0,0
+"RESP_131","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_132","ORG_003","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,0
+"RESP_133","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_134","ORG_018","Employer","Technology, Construction, and Transportation",0,1,0,0,0,0,0,0,0,0,1
+"RESP_135","ORG_012","Employer","Technology, Construction, and Transportation",1,1,1,0,0,0,1,1,1,0,0
+"RESP_136","ORG_046","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_137","ORG_012","Employer","Technology, Construction, and Transportation",0,1,0,0,0,1,0,1,1,0,1
+"RESP_138","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_139","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,0
+"RESP_140","ORG_009","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_141","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,0,0,1
+"RESP_142","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,0,1,1
+"RESP_143","ORG_001","Union","Technology, Construction, and Transportation",0,1,0,0,1,0,0,0,0,0,0
+"RESP_144","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,0,0,1
+"RESP_145","ORG_001","Union","Technology, Construction, and Transportation",1,0,1,0,0,0,1,0,0,0,0
+"RESP_146","ORG_044","Employer","Technology, Construction, and Transportation",0,1,1,0,0,0,1,0,1,0,1
+"RESP_147","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,0
+"RESP_148","ORG_039","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_149","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,1,0,1
+"RESP_150","ORG_024","Union","Care, Health, and Pedagogy",0,0,0,1,0,0,0,0,0,0,1
+"RESP_151","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_152","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_153","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_154","ORG_024","Union","Care, Health, and Pedagogy",0,1,1,0,0,0,1,0,0,0,1
+"RESP_155","ORG_023","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_156","ORG_014","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_157","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_158","ORG_043",,"Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_159","ORG_024","Union","Care, Health, and Pedagogy",0,0,0,0,0,0,0,0,0,0,0
+"RESP_160","ORG_018","Employer","Care, Health, and Pedagogy",0,0,0,0,0,0,0,0,0,0,0
+"RESP_161","ORG_024","Union","Care, Health, and Pedagogy",0,1,1,0,0,0,1,0,1,1,1
+"RESP_162","ORG_001","Union","Care, Health, and Pedagogy",0,0,0,1,0,0,0,0,1,0,1
+"RESP_163","ORG_024","Union","Care, Health, and Pedagogy",,,,,,,,,,,
+"RESP_164","ORG_030","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_165","ORG_012","Employer","Technology, Construction, and Transportation",0,1,1,0,0,0,0,1,0,0,1
+"RESP_166","ORG_004","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_167","ORG_032","Union","Care, Health, and Pedagogy",,,,,,,,,,,
+"RESP_168","ORG_030","Employer","Technology, Construction, and Transportation",0,1,1,0,0,0,0,1,0,0,1
+"RESP_169","ORG_031","Employer","Technology, Construction, and Transportation",0,1,1,0,0,0,0,1,0,0,1
+"RESP_170","ORG_014","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_171","ORG_032","Union","Technology, Construction, and Transportation",1,0,1,0,1,0,1,1,0,0,1
+"RESP_172","ORG_032","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,1,0,0,1
+"RESP_173","ORG_027","Employer","Food, Agriculture, and Leisure",1,0,1,0,0,0,1,0,0,0,1
+"RESP_174","ORG_025","Employer","Administration, Commerce, and Business Services",,,,,,,,,,,
+"RESP_175","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_176","ORG_037","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_177","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_178","ORG_012","Employer","Food, Agriculture, and Leisure",0,1,0,0,0,0,0,0,0,0,1
+"RESP_179","ORG_012","Employer","Food, Agriculture, and Leisure",0,1,0,0,1,0,0,1,1,0,1
+"RESP_180","ORG_028","Union","Food, Agriculture, and Leisure",0,0,0,1,0,0,0,0,0,0,1
+"RESP_181","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,1,0,0,1,0,0,1
+"RESP_182","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_183","ORG_012","Employer","Technology, Construction, and Transportation",0,1,1,0,1,0,0,1,0,0,1
+"RESP_184","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_185","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_186","ORG_012","Employer","Technology, Construction, and Transportation",1,0,1,0,0,0,0,1,1,0,1
+"RESP_187","ORG_049",,"Food, Agriculture, and Leisure",0,1,1,0,0,1,1,1,0,1,1
+"RESP_188","ORG_035","Union","Food, Agriculture, and Leisure",0,0,1,1,0,0,0,0,0,0,1
+"RESP_189","ORG_019","Employer","Food, Agriculture, and Leisure",0,1,0,1,0,0,0,0,0,0,1
+"RESP_190","ORG_028","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,1
+"RESP_191","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,1,0,0,0,0,0,0,1
+"RESP_192","ORG_001","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,1,1,0,0,1
+"RESP_193","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,0,1,0,0,0,0,0,1
+"RESP_194","ORG_029","Employer","Food, Agriculture, and Leisure",0,0,0,0,0,1,0,0,0,0,1
+"RESP_195","ORG_029","Employer","Food, Agriculture, and Leisure",1,0,1,0,0,0,1,1,0,0,1
+"RESP_196","ORG_048","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,0
+"RESP_197","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_198","ORG_014","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_199","ORG_010","Union","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_200","ORG_001","Union","Food, Agriculture, and Leisure",1,0,0,0,0,0,0,1,0,0,1
+"RESP_201","ORG_016",,"Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,0
+"RESP_202","ORG_029","Employer","Food, Agriculture, and Leisure",0,0,0,1,0,0,0,0,0,0,1
+"RESP_203","ORG_001","Union","Food, Agriculture, and Leisure",0,0,0,1,0,0,0,0,0,0,0
+"RESP_204","ORG_036","Employer","Food, Agriculture, and Leisure",1,1,1,0,0,0,0,1,1,0,1
+"RESP_205","ORG_029","Employer","Food, Agriculture, and Leisure",0,0,0,1,0,0,0,0,0,0,1
+"RESP_206","ORG_014","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_207","ORG_029","Employer","Food, Agriculture, and Leisure",1,0,1,0,0,0,1,1,0,0,1
+"RESP_208","ORG_001","Union","Food, Agriculture, and Leisure",1,0,1,1,0,0,0,0,0,0,1
+"RESP_209","ORG_001","Union","Food, Agriculture, and Leisure",0,0,0,1,0,0,0,0,0,0,1
+"RESP_210","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_211","ORG_012","Employer","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_212","ORG_034","Employer","Administration, Commerce, and Business Services",0,1,1,0,0,0,0,0,0,0,1
+"RESP_213","ORG_022","Union","Administration, Commerce, and Business Services",0,0,0,1,0,0,0,0,0,0,1
+"RESP_214","ORG_006","Employer","Administration, Commerce, and Business Services",0,1,1,0,0,0,0,0,0,0,1
+"RESP_215","ORG_020","Employer","Food, Agriculture, and Leisure",0,1,0,0,0,0,0,0,0,0,1
+"RESP_216","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_217","ORG_037","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_218","ORG_010","Union","Food, Agriculture, and Leisure",0,0,0,0,0,0,0,0,0,0,0
+"RESP_219","ORG_024","Union","Administration, Commerce, and Business Services",0,1,1,0,0,1,1,1,0,1,1
+"RESP_220","ORG_024","Union","Administration, Commerce, and Business Services",0,0,0,0,0,0,0,0,0,0,1
+"RESP_221","ORG_012","Employer","Administration, Commerce, and Business Services",0,0,1,0,1,0,0,0,0,0,1
+"RESP_222","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,1,0,0,1
+"RESP_223","ORG_001","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_224","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,1
+"RESP_225","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,1,0,1
+"RESP_226","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,1,0,0,1
+"RESP_227","ORG_001","Union","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_228","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,0
+"RESP_229","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_230","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,1,0,1
+"RESP_231","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,1
+"RESP_232","ORG_012","Employer","Technology, Construction, and Transportation",0,1,0,0,0,0,0,0,1,0,1
+"RESP_233","ORG_012","Employer","Technology, Construction, and Transportation",0,1,0,0,0,0,0,0,0,0,1
+"RESP_234","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_235","ORG_001","Union","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_236","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,1
+"RESP_237","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_238","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_239","ORG_028","Union","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_240","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_241","ORG_041","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,1,0,0,0,1
+"RESP_242","ORG_012","Employer","Food, Agriculture, and Leisure",,,,,,,,,,,
+"RESP_243","ORG_001","Union","Technology, Construction, and Transportation",,,,,,,,,,,
+"RESP_244","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_245","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_246","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_247","ORG_014","Union","Technology, Construction, and Transportation",1,0,1,0,0,0,0,0,0,0,1
+"RESP_248","ORG_012","Employer","Technology, Construction, and Transportation",1,0,1,0,0,0,1,0,0,0,1
+"RESP_249","ORG_014","Union","Technology, Construction, and Transportation",0,1,1,0,0,0,0,0,0,0,1
+"RESP_250","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,0,0,0,0,0,0,0,0
+"RESP_251","ORG_012","Employer","Technology, Construction, and Transportation",0,0,1,0,0,0,0,1,0,0,1
+"RESP_252","ORG_014","Union","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_253","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,0,1,0,0,0,0,0,1
+"RESP_254","ORG_001","Union","Technology, Construction, and Transportation",1,0,1,0,0,0,0,0,0,0,1
+"RESP_255","ORG_012","Employer","Technology, Construction, and Transportation",0,0,0,1,0,0,0,0,0,0,1
+"RESP_256","ORG_001","Union","Technology, Construction, and Transportation",0,1,1,0,0,0,1,0,1,0,1
+"RESP_257","ORG_001","Union","Technology, Construction, and Transportation",0,0,1,0,0,0,0,0,0,0,1
+"RESP_258","ORG_012","Employer","Administration, Commerce, and Business Services",0,0,1,0,1,0,0,0,0,0,1
+"RESP_259","ORG_047","Union","Administration, Commerce, and Business Services",0,0,0,0,0,0,0,0,0,0,1
+"RESP_260","ORG_001","Union","Technology, Construction, and Transportation",0,1,1,0,0,0,0,0,0,0,1
+"RESP_261",,,,,,,,,,,,,,163
+"RESP_262",,,,,,,,,,,,,,0.857894736842105
+"RESP_263",,,,,,,,,,,,,,
+"RESP_264",,,,,,,,,,,,,,
+"RESP_265",,,,,,,,,,,,,,
+"RESP_266",,,,,,,,,,,,,,
